@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 	<p>多听，多看，多思</p>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=one-pupil&show_icons=true&hide_title=true&theme=vue" />
-
 #### Hello 🌱
 
 - 网站： [imondo.cn](https://imondo.cn)
 - 博客： [仿如昨日](https://www.yuque.com/mondo/docs)
 - 源码： [one-pupil/docs](https://github.com/one-pupil/docs)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=one-pupil&show_icons=true&hide_title=true&theme=vue" />
+
