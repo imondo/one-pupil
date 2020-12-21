@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 <div align="center">
 <!--   <a href="https://imondo.cn" target="_blank"><img src="https://imondo.cn/files/logo.png"></a> -->
   <br>
-	<p>多听，多看，多思</p>
+<!-- 	<p>多听，多看，多思</p> -->
 </div>
 
 #### Hello ⚡
+
+> 多听，多看，多思
 
 - 网站： [imondo.cn](https://imondo.cn)
 - 博客： [仿如昨日](https://www.yuque.com/mondo/docs)
