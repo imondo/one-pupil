@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=one-pupil&show_icons=true&hide_title=true&theme=vue" />
 -->
 
-<div align="center">
-<!--   <a href="https://imondo.cn" target="_blank"><img src="https://imondo.cn/files/logo.png"></a> -->
+<!-- <div align="center"> 
+ <a href="https://imondo.cn" target="_blank"><img src="https://imondo.cn/files/logo.png"></a>
   <br>
-<!-- 	<p>多听，多看，多思</p> -->
-</div>
+	<p>多听，多看，多思</p>
+</div> -->
 
 #### Hello ⚡
 
