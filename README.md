@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 > 多听，多看，多思
 
 - 网站： [imondo.cn](https://imondo.cn)
-- 博客： [仿如昨日](https://www.yuque.com/mondo/docs)
 - 源码： [one-pupil/docs](https://github.com/one-pupil/docs)
+- 语雀： [仿如昨日](https://www.yuque.com/mondo/docs)
